@@ -1,0 +1,21 @@
+/* Селектор тегу */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+/* Селектор класу для заголовка */
+.header-title {
+    color: #2c3e50;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Приклад використання Box Model */
+.container {
+    width: 80%;
+    margin: 0 auto; /* Центрування */
+    padding: 15px;
+    border: 1px solid #ccc;
+}
